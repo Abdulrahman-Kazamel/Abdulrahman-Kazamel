@@ -11,12 +11,10 @@
 I’m a motivated IT professional with a growing focus on **Observability, Application Performance Monitoring (APM), and .NET backend development**.  
 
 - ⚡ Experienced with **AppDynamics** & **Micro Focus** tools (presales & technical support).  
-- 🛠️ Delivered **POCs, lab environments, troubleshooting** for enterprise clients (incl. Etisalat Egypt).  
 - 🎓 Completed **Postgraduate Diploma in Software Engineering (82%)**, applied in **ASP.NET MVC, C#, SQL Server** projects.  
 - 📜 Certified **Cisco AppDynamics Implementation Professional (2024)**.  
 
 💡 I enjoy combining **performance monitoring** with **backend development** to deliver stable and efficient systems.  
-
 ---
 
 ## 🛠️ Tech Stack & Skills  
