@@ -5,9 +5,7 @@
 
 🎯 **DevOps & Observability Engineer | Linux | AWS | Jenkins | AppDynamics**  
 📍 Cairo, Egypt  
-📧 [Email Me](mailto:Abdulrahmankazamel@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/abdulrahman-kazamel/)  
-💻 [GitHub](https://github.com/Abdulrahman-Kazamel)
+📧 [Email Me](mailto:Abdulrahmankazamel@gmail.com)  💼 [LinkedIn](https://www.linkedin.com/in/abdulrahman-kazamel/)  
 
 ---
 
